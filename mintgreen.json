@@ -1,0 +1,25 @@
+{
+    "workbench.colorCustomizations": {
+        "editorGroup.border": "#00ff9d",
+        "editorLineNumber.foreground": "#00ff9d",
+        "editorLineNumber.activeForeground": "#008a55",
+
+        "editorWhitespace.foreground": "#00ff9d",
+
+        "editorIndentGuide.background": "#00730c",
+
+        "button.background": "#008a55",
+        "badge.background": "#0084ff",
+
+        "scrollbarSlider.background": "#686868",
+
+        "statusBar.background": "#008a55",
+
+        "terminalCommandDecoration.successBackground": "#00ff9d",
+        "terminalCommandDecoration.defaultBackground": "#fffb00",
+
+        "activityBar.activeBorder": "#00ff9d"
+    },
+    "editor.guides.indentation": true,
+    "editor.renderWhitespace": "trailing"
+}
